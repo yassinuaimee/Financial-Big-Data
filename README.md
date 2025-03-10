@@ -22,6 +22,5 @@ This repository contains the project **Intraday Clustering for Financial State D
   - `Correlation.ipynb` – Implements correlation matrix computation and cleaning methods.
   - `Main.ipynb` – The main script for executing the full pipeline.
 
-## 🚀 How to Run the Code
 
 
